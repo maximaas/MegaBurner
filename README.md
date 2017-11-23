@@ -28,3 +28,78 @@ I copied and used the codes of these two features above, and wrote a window prog
 
 ![image](https://github.com/maximaas/MegaBurner/blob/master/pics/megaburner_window.png)
 
+The wiring of expansion shield is the same as cartreader:
+
+| Arduino Pins   | MX29L2311 Pins   |
+|:---------------|:-----------------|
+|A0              |A0                |
+|A1              |A1                |
+|A2              |A2                |
+|A3              |A3                |
+|A4              |A4                |
+|A5              |A5                |
+|A6              |A6                |
+|A7              |A7                |
+|A8              |A8                |
+|A9              |A9                |
+|A10             |A10               |
+|A11             |A11               |
+|A12             |A12               |
+|A13             |A13               |
+|A14             |A14               |
+|A15             |A15               |
+|D0              |                  |
+|D1              |                  |
+|D2              |                  |
+|D3              |                  |
+|D4              |                  |
+|D5              |                  |
+|D6              |BYTE (VCC)        |
+|D7              |WE                |
+|D8              |                  |
+|D9              |CE                |
+|D10             |                  |
+|D11             |                  |
+|D12             |                  |
+|D13             |                  |
+|D14             |                  |
+|D15             |                  |
+|D16             |OE                |
+|D17             |                  |
+|D18             |                  |
+|D19             |                  |
+|D20             |                  |
+|D21             |                  |
+|D22             |D8                |
+|D23             |D9                |
+|D24             |D10               |
+|D25             |D11               |
+|D26             |D12               |
+|D27             |D13               |
+|D28             |D14               |
+|D29             |D15               |
+|D30             |D7                |
+|D31             |D6                |
+|D32             |D5                |
+|D33             |D4                |
+|D34             |D3                |
+|D35             |D2                |
+|D36             |D1                |
+|D37             |D0                |
+|D38             |                  |
+|D39             |                  |
+|D40             |                  |
+|D41             |                  |
+|D42             |                  |
+|D43             |                  |
+|D44             |                  |
+|D45             |A20               |
+|D46             |A19               |
+|D47             |A18               |
+|D48             |A17               |
+|D49             |A16               |
+|D50             |                  |
+|D51             |                  |
+|D52             |                  |
+|D53             |                  |
+
