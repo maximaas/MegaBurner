@@ -30,7 +30,7 @@ I copied and used the codes of these two features above, and wrote a window prog
 
 The wiring of expansion shield is the same as cartreader:
 
-| Arduino Pins   | MX29L2311 Pins   |
+| Mega2560 Pins  | MX29L2311 Pins   |
 |:---------------|:-----------------|
 |A0              |A0                |
 |A1              |A1                |
