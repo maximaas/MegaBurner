@@ -1,5 +1,7 @@
 # MegaBurner
 A Flash Programmer
+Copyright (C) 2017 Maximaas<br/>
+Version 1.0
 
 When making SFC/SNES repro cartridges, a flash programmer is needed to burner the rom file binaries into the flash(eeprom) memory chips.
 
@@ -16,13 +18,13 @@ So I decided to make a DIY programmer by my own based on Arduino Mega2560. And h
 3. Currently it can only program MX29L3211. Various chip models can be supported in the future by supplying another expansion shield with different wiring.
 4. EPROMs are not supported because the 12v program voltage needs additional power supply circuit, and I want to keep the programmer simple.
 
-There's several succeded project on th internet, like:
-Cartridge Reader Shield for Arduino Mega 2560 (https://github.com/sanni/cartreader)
+There's several succeded project on th internet, like:<br/>
+Cartridge Reader Shield for Arduino Mega 2560 (https://github.com/sanni/cartreader)<br/>
 MEEPROMMER (https://github.com/mkeller0815/MEEPROMMER)
 
 Cartreader have a full 16-bit flash program feature, and tested exactly on MX29L3211 while MEEPROMMER handles read/write operations between PC and Mega2560 via serial port.
 
 I copied and used the codes of these two features above, and wrote a window program using SWT.
 
-<Main>
+![image](https://github.com/maximaas/Megaburner/blob/master/pics/megaburner_window.png)
 
