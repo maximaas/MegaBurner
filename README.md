@@ -26,5 +26,5 @@ Cartreader have a full 16-bit flash program feature, and tested exactly on MX29L
 
 I copied and used the codes of these two features above, and wrote a window program using SWT.
 
-![image](https://github.com/maximaas/Megaburner/blob/master/pics/megaburner_window.png)
+![image](https://github.com/maximaas/MegaBurner/blob/master/pics/megaburner_window.png)
 
