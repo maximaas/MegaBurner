@@ -106,3 +106,15 @@ The wiring of expansion shield is the same as cartreader:
 |D52             |                  |
 |D53             |                  |
 
+###Features
+
+1. "Check" the ID code of the chip
+2. "Erase" the chip
+3. "Read Data" from the chip and save the binaries as a file.
+4. "Browse" and choose a file, then load it into memory.
+5. "Verify" and compare the data on the chip with local loaded file.
+6. "Write" the loaded file into the chip, and can "erase" the chip before started and "verify" the data after writing.
+
+###Limitation
+1. Only support MX29L3211 3.3v flash chip at this time.
+2. The read/write processes are both slow, because of the slow serial port on arduino. It will took about 18 minutes to finish writing all 4MB data.
