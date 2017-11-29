@@ -106,7 +106,7 @@ The wiring of expansion shield is the same as cartreader:
 |D52             |                  |
 |D53             |                  |
 
-Software and hardwre of this project have been tested working during an SNES SA-1 cart reproduction. I successfully converted a Shogi game to Super Mario RPG.
+Software and hardware of this project have been tested working during an SNES SA-1 cart reproduction. I successfully converted a Shogi game to Super Mario RPG.
 
 <cart>
 <SMRPG>
