@@ -11,7 +11,7 @@ MX29L3211 is a easy to find and cheap 4MB flash chip model with 3.3v power suppl
 
 So I decided to make a DIY programmer by my own based on Arduino Mega2560. And here's my design:
 
-<MegaBurner>
+![image](https://github.com/maximaas/MegaBurner/blob/master/pics/megaburner_hw.png)
 
 1. A 48pin SOP adapter for holding the chip and turns SOP to DIP interface.
 2. A mega2560 expansion shield wiring the 48pin DIP to arduino ports.
