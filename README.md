@@ -18,6 +18,9 @@ So I decided to make a DIY programmer by my own based on Arduino Mega2560. And h
 3. Currently it can only program MX29L3211. Various chip models can be supported in the future by supplying another expansion shield with different wiring.
 4. EPROMs are not supported because the 12v program voltage needs additional power supply circuit, and I want to keep the programmer simple.
 
+The 1st step is to convert Mega2560 to 3.3v compatible.<br/>
+Follow this post: (https://learn.adafruit.com/arduino-tips-tricks-and-techniques/3-3v-conversion)
+
 There's several succeded project on th internet, like:<br/>
 Cartridge Reader Shield for Arduino Mega 2560 (https://github.com/sanni/cartreader)<br/>
 MEEPROMMER (https://github.com/mkeller0815/MEEPROMMER)
